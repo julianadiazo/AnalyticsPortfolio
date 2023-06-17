@@ -6,3 +6,5 @@ This project was done using Power BI and was created for the customer service in
 
 ## Project: Pokemon Dashboard
 This is a project I did for fun using Tableau: twb/PokemonDashboard.twb
+
+<img width="283" alt="image" src="https://github.com/julianadiazo/AnalyticsPortfolio/assets/130860733/cf3c97df-c606-46c7-a23c-09dda0006019">
