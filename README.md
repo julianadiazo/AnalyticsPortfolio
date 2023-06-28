@@ -19,4 +19,11 @@ slowly changing dimetion I uploaded the data in CSV file and backfilled the rest
 colleages.
 
 1. Table Creation: https://github.com/julianadiazo/SQL/blob/main/Professional/Snowflake/SimpleTableCreationSnowflake
-2. Data Backfill: https://github.com/julianadiazo/SQL/blob/main/Professional/Snowflake/BackfillForSnowflakeTable 
+2. Data Backfill: https://github.com/julianadiazo/SQL/blob/main/Professional/Snowflake/BackfillForSnowflakeTable
+
+## Python: Training Codility
+This is a demo task for codility. Write a function: that, given an array A of N integers, returns the smallest positive integer (greater than 0) that does not occur in A. 
+For example, given A = [1, 3, 6, 4, 1, 2], the function should return 5.
+Given A = [1, 2, 3], the function should return 4.
+Given A = [−1, −3], the function should return 1.
+More info can be found here: https://github.com/julianadiazo/Python/blob/main/Training/CodilityNumbersDemo.py
