@@ -12,3 +12,11 @@ This is a project I did for fun using Tableau: twb/PokemonDashboard.twb
 ## SQL: World Cup Scoring
 This is a project I did for fun in one of my SQL practice sessions. The code scores a ranking based on the scores between teams. It takes into account wins, losses and ties.
 You can find the code here https://github.com/julianadiazo/SQL/blob/main/ForFun/WorldCup
+
+## SQL: Table Creation in Snowflake
+This is a simple table creation I did using Snowflake SQL based platform. The data ingestion was done using the snowflake interface, since it's a
+slowly changing dimetion I uploaded the data in CSV file and backfilled the rest of the environments using a CI/CD pipeline created by one of my
+colleages.
+
+1. Table Creation: https://github.com/julianadiazo/SQL/blob/main/Professional/Snowflake/SimpleTableCreationSnowflake
+2. Data Backfill: https://github.com/julianadiazo/SQL/blob/main/Professional/Snowflake/BackfillForSnowflakeTable 
