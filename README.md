@@ -11,4 +11,4 @@ This is a project I did for fun using Tableau: twb/PokemonDashboard.twb
 
 ## SQL: World Cup Scoring
 This is a project I did for fun in one of my SQL practice sessions. The code scores a ranking based on the scores between teams. It takes into account wins, losses and ties.
-You can find the code here https://github.com/julianadiazo/SQL
+You can find the code here https://github.com/julianadiazo/SQL/blob/main/ForFun/WorldCup
