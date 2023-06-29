@@ -47,4 +47,5 @@ More info can be found here: https://github.com/julianadiazo/Python/blob/main/Tr
 
 ## Snowflake Infrastructure
 This is a Hands on Demo that I did during training for Snowflake, it includes most of the capabilities snowflake has in a very light level, including but no limited to ingesting data using AWS S3, creating databases, schemas, tables etc.
-You can find the complete pdf here: 
+
+You can find the complete pdf here: https://github.com/julianadiazo/Snowflake/blob/main/SnowflakeLab.pdf
