@@ -33,6 +33,11 @@ colleages.
 1. Table Creation: https://github.com/julianadiazo/SQL/blob/main/Professional/Snowflake/SimpleTableCreationSnowflake
 2. Data Backfill: https://github.com/julianadiazo/SQL/blob/main/Professional/Snowflake/BackfillForSnowflakeTable
 
+## SQL: View Creation in Snowflake
+
+This is a view created on top of several tables availablen in the Snowflake Architecture for the project I was working on. This view was created specifically to pull data for a Power BI report. The code has been altered for security reasons.
+You can find the code here: https://github.com/julianadiazo/SQL/blob/main/Professional/Snowflake/ViewCreation.sql
+
 ## Python: Training Codility
 This is a demo task for codility. Write a function: that, given an array A of N integers, returns the smallest positive integer (greater than 0) that does not occur in A. 
 For example, given A = [1, 3, 6, 4, 1, 2], the function should return 5.
