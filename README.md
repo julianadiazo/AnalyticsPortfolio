@@ -8,6 +8,13 @@ This project was done using Power BI and was created for the customer service in
 ![Screenshot 2023-06-29 at 10 00 25 AM](https://github.com/julianadiazo/DataPracticePortfolio/assets/130860733/05608a9b-9f00-4a77-bc5d-a59deb16df05)
 ![Screenshot 2023-06-29 at 10 00 39 AM](https://github.com/julianadiazo/DataPracticePortfolio/assets/130860733/58e1c496-f43c-4933-88b9-20d114855594)
 
+## Project Power BI: Marketing Performance for Anthology
+This project was done using Power BI and was created for the marketing team in Anthology (Blackboard). Please take in mind that the information in the report has been altered and it's al fake.
+
+![Screenshot 2023-06-29 at 10 10 54 AM](https://github.com/julianadiazo/DataPracticePortfolio/assets/130860733/72682b44-4eba-4d7f-9fe0-4e6c61c3bf52)
+![Screenshot 2023-06-29 at 10 11 05 AM](https://github.com/julianadiazo/DataPracticePortfolio/assets/130860733/c21910b1-66d0-425c-8b43-4e5c5d9b7b9a)
+![Screenshot 2023-06-29 at 10 11 33 AM](https://github.com/julianadiazo/DataPracticePortfolio/assets/130860733/e01d954d-cdf8-4d21-8ec3-416cb43b8eba)
+
 
 ## Project Tableau: Pokemon Dashboard
 This is a project I did for fun using Tableau: twb/PokemonDashboard.twb
