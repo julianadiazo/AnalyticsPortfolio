@@ -4,6 +4,11 @@ Hello! Here's my analytics Portfolio. Feel free to look around and tell me what 
 ## Project Power BI: NPS Scoring for Anthology
 This project was done using Power BI and was created for the customer service in Anthology (Blackboard). Please take in mind that the information in the report has been altered and it's al fake.
 
+![Screenshot 2023-06-29 at 10 00 57 AM](https://github.com/julianadiazo/DataPracticePortfolio/assets/130860733/59a68602-0ed8-4173-b1a4-cf4e8a0caef8)
+![Screenshot 2023-06-29 at 10 00 25 AM](https://github.com/julianadiazo/DataPracticePortfolio/assets/130860733/05608a9b-9f00-4a77-bc5d-a59deb16df05)
+![Screenshot 2023-06-29 at 10 00 39 AM](https://github.com/julianadiazo/DataPracticePortfolio/assets/130860733/58e1c496-f43c-4933-88b9-20d114855594)
+
+
 ## Project Tableau: Pokemon Dashboard
 This is a project I did for fun using Tableau: twb/PokemonDashboard.twb
 
